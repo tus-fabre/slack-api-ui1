@@ -4,7 +4,7 @@
  * [FILE] app.js
  *
  * [DESCRIPTION]
- *  Lesson 5a - 選択メニューから項目を選択する
+ *  Lesson UI 1 - 選択メニューから項目を選択する
  * 
  * [NOTE]
  */
